@@ -14,7 +14,8 @@
     <a href="https://open.kattis.com/users/evan-richard">
         <img src="https://avatars.githubusercontent.com/u/8167581?s=280&v=4" width="150"/>
     </a>
-</p>
+
+
 ***
 
 ### About **Me** 🙋‍♂️
@@ -23,6 +24,20 @@ I'm a computer science
 undergraduate at Missouri Science and Technology in Rolla Missouri. My area's of interest include **Machine Learning** 🤖, **Cybersecurity** 🔒, and **Game Development** 🕹️. I love programming, but outside of building a career for myself I can also be found **fishing** 🐟, **bowling** 🎳, **gaming** 👾, **reading** 📚, **lifting** 💪, and **hanging with friends** 😎.
 
 ***
+### Current Projects
 
-I'm currently working on developing a game in Lua, enhancing my skills with Leetcode, Kattis, and NeetCode, and learing more about software design, machine learning, and game design. I'm also planning on doing some undergraduate research with my professors in the area of Cybersecurity.
+I'm currently working on developing a game in **Lua**, enhancing my skills with **Leetcode**, **Kattis**, and **NeetCode**. I'm learing more about **software design**, **machine learning**, and **game design**. I'm also planning on doing some undergraduate research with a [professor](https://cii.mst.edu/people/members/sanjaymadria/) in the area of Cybersecurity as well as working on an honor's project for **Algorithms** and a project for **.Operating Systems**.
+
+<p align = "center">
+    <!-- Operating Systems -->
+    <a href="https://github.com/ERichard007/CS-3800">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrN7gIgEf7vLT54ZVxU2Uf_mLweb_gmWPZ_A&s"/>
+    </a>
+    <!-- Algorithms -->
+    <a href="https://github.com/ERichard007/CS-2500">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjv05D7YznBmMMG_tJOfxdU__ar98fxatvDQ&s"/>
+    </a>
+</p>
+
+
 
