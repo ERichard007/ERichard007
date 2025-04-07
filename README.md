@@ -26,7 +26,7 @@ undergraduate at Missouri Science and Technology in Rolla Missouri. My area's of
 ***
 ### Current Projects
 
-I'm currently working on developing a game in **Lua**, enhancing my skills with **Leetcode**, **Kattis**, and **NeetCode**. I'm learing more about **software design**, **machine learning**, and **game design**. I'm also planning on doing some undergraduate research with a [professor](https://cii.mst.edu/people/members/sanjaymadria/) in the area of Cybersecurity as well as working on an honor's project for **Algorithms** and a project for **.Operating Systems**.
+I'm currently working on developing a game in **Lua**, enhancing my skills with **Leetcode**, **Kattis**, and **NeetCode**. I'm learing more about **software design**, **machine learning**, and **game design**. I'm also planning on doing some undergraduate research with a [professor](https://cii.mst.edu/people/members/sanjaymadria/) in the area of Cybersecurity as well as working on an honor's project for **Algorithms** and a project for **Operating Systems**.
 
 <p align = "center">
     <!-- Operating Systems -->
