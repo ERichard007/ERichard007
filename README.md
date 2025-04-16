@@ -20,31 +20,43 @@
     <img src=https://static.wikia.nocookie.net/roblox/images/a/a0/Roblox_Studio_Icon_6.svg/revision/latest?cb=20230511025706 height='50' style="margin-right: 10px">
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png height='50' style="margin-right: 10px">
     <img src=https://pbs.twimg.com/profile_images/1630964842197573632/X5VCQoYL_400x400.jpg height='50'>
-    
+</div> 
+
+***
+
+<div>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/EvanRichard.png" width='200'/>
 </div>
 
 ***
 
 ### About **Me** 🙋‍♂️
 
-I'm a computer science
-undergraduate at Missouri Science and Technology in Rolla Missouri. My area's of interest include **Machine Learning** 🤖, **Cybersecurity** 🔒, and **Game Development** 🕹️. I love programming, but outside of building a career for myself I can also be found **fishing** 🐟, **bowling** 🎳, **gaming** 👾, **reading** 📚, **lifting** 💪, and **hanging with friends** 😎.
+I'm a computer science undergraduate at Missouri Science and Technology in Rolla Missouri. My area's of interest include **Machine Learning** 🤖, **Cybersecurity** 🔒, and **Game Development** 🕹️. I love programming, but outside of building a career for myself I can also be found **fishing** 🐟, **bowling** 🎳, **gaming** 👾, **reading** 📚, **lifting** 💪, and **hanging with friends** 😎.
 
 ***
 ### Current Projects
 
-I'm currently working on developing a game in **Lua**, enhancing my skills with **Leetcode**, **Kattis**, and **NeetCode**. I'm learing more about **software design**, **machine learning**, and **game design**. I'm also planning on doing some undergraduate research with a [professor](https://cii.mst.edu/people/members/sanjaymadria/) in the area of Cybersecurity as well as working on an honor's project for **Algorithms** and a project for **Operating Systems**.
+I'm currently working on developing a game in **C#**, developing a website for an **ACM** competition, and improving my cybersecurity knowledge with **TryHackMe**. I'm learing more about **software design**, **devOps**, and **game design**. I'm also planning on doing some undergraduate research with a [professor](https://cii.mst.edu/people/members/sanjaymadria/) in the area of Cybersecurity as well as working on an honor's project for **Algorithms** and a project for **Operating Systems**.
 
-<p align = "center">
+<div align='center'>
+    <!-- Chess Game -->
+    <a href="https://github.com/ERichard007/CSharpChess.git">
+        <img src="https://img.itch.zone/aW1nLzE5MzI1ODY2LmdpZg==/original/OjtpdW.gif" height='100'/>
+    </a>
+    <!-- Personal Website -->
+    <a href="https://github.com/ERichard007/PersonalWebsiteACMCompetition.git">
+        <img src="https://media4.giphy.com/media/5aUw8GEmLUAULgGdE9/giphy.gif?cid=6c09b952z17xmurpvsmjeb576o6samhtl3bcyeqygbzzjr39&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" height='100'/>
+    </a>
     <!-- Operating Systems -->
     <a href="https://github.com/ERichard007/CS-3800">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrN7gIgEf7vLT54ZVxU2Uf_mLweb_gmWPZ_A&s"/>
+        <img src="https://media0.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=6c09b952d5bfjebi3wdqncp1mrumzwtv9z9udmj3ehcl4e6t&ep=v1_gifs_search&rid=giphy.gif&ct=g" height='100'/>
     </a>
     <!-- Algorithms -->
     <a href="https://github.com/ERichard007/CS-2500">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjv05D7YznBmMMG_tJOfxdU__ar98fxatvDQ&s"/>
+        <img src="https://media.tenor.com/YnP4e9aFUocAAAAM/sort-chart.gif" height='100'/>
     </a>
-</p>
+</div>
 
 ***
 
