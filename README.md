@@ -8,13 +8,10 @@
     <img src=https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png height='55' style="margin-right: 10px">
     <img src=https://avatars.githubusercontent.com/u/9503099?s=280&v=4 height='55' style="margin-right: 10px">
     <img src=https://cdn-icons-png.flaticon.com/512/919/919826.png height='55' style="margin-right: 10px">
-    <img src=https://avatars.githubusercontent.com/u/9503099?s=280&v=4 height='55' style="margin-right: 10px">
-    <img src=https://cdn-icons-png.flaticon.com/512/919/919826.png height='55'>
-
-***
-
 </div>
     
+***
+
 <div>
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png height='50' v>
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png height='50' style="margin-right: 10px">
