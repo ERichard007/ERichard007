@@ -62,7 +62,7 @@ I'm currently working on developing a game in **C#**, developing a website for a
 
 <div align='center'>
     <h1> Connect With Me! 👉 
-        <a href=https://www.linkedin.com/in/evanrichard0)>
+        <a href=https://www.linkedin.com/in/evanrichard0>
             <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png width="50">
         </a>
     </h1>
