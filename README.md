@@ -1,24 +1,16 @@
 ## Hello! My name is Evan Richard 👋
+*** 
+<p>
+    <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png>
+    <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png>
+    <img src=https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png>
+    <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png>
+    <img src=https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png>
+    <img src=https://avatars.githubusercontent.com/u/9503099?s=280&v=4>
+    <img src=https://cdn-icons-png.flaticon.com/512/919/919826.png>
+</p>
 
 ***
-<p align="center">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/evanrichard0">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="150"/>
-    </a>
-    <!-- Leetcode -->
-    <a href="https://leetcode.com/u/9hr2E8lQS6/">
-        <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" style="margin: 40px;" width="150" height="150"/>
-    </a>
-    <!-- Kattis -->
-    <a href="https://open.kattis.com/users/evan-richard">
-        <img src="https://avatars.githubusercontent.com/u/8167581?s=280&v=4" width="150"/>
-    </a>
-
-
-***
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2702656" style='border:none;'></iframe>
 
 ### About **Me** 🙋‍♂️
 
@@ -41,5 +33,13 @@ I'm currently working on developing a game in **Lua**, enhancing my skills with 
     </a>
 </p>
 
+***
 
+<h3 align="center"> Connect With Me!</h3>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/evanrichard0">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="150"/>
+    </a>
+</p>
 
