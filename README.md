@@ -7,6 +7,8 @@
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png height='55' style="margin-right: 10px">
     <img src=https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png height='55' style="margin-right: 10px">
     <img src=https://avatars.githubusercontent.com/u/9503099?s=280&v=4 height='55' style="margin-right: 10px">
+    <img src=https://cdn-icons-png.flaticon.com/512/919/919826.png height='55' style="margin-right: 10px">
+    <img src=https://avatars.githubusercontent.com/u/9503099?s=280&v=4 height='55' style="margin-right: 10px">
     <img src=https://cdn-icons-png.flaticon.com/512/919/919826.png height='55'>
 
 ***
