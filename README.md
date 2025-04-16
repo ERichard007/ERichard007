@@ -48,14 +48,22 @@ I'm currently working on developing a game in **Lua**, enhancing my skills with 
 
 ***
 
-<h3> Connect with me 👉 
-    <a href=https://www.linkedin.com/in/evanrichard0)>
-        <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png width="50">
-    </a>
-</h3>
-
-![MonkyGif](./Assets/monkey.gif)
+<div align='center'>
+    <h1> Connect With Me! 👉 
+        <a href=https://www.linkedin.com/in/evanrichard0)>
+            <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png width="50">
+        </a>
+    </h1>
+    <img src=./Assets/monkey.gif>
 </div>
+
+
+
+
+
+
+
+
 
 
 
