@@ -50,9 +50,13 @@ I'm currently working on developing a game in **Lua**, enhancing my skills with 
 
 <h3 align="center"> Connect With Me!</h3>
 
-<p align="center">
+<div>
     <a href="https://www.linkedin.com/in/evanrichard0">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="150"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height='60'/>
     </a>
-</p>
+
+![MonkyGif](./Assets/monkey.gif)
+</div>
+
+
 
