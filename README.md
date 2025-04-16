@@ -8,6 +8,17 @@
     <img src=https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png height='55' style="margin-right: 10px">
     <img src=https://avatars.githubusercontent.com/u/9503099?s=280&v=4 height='55' style="margin-right: 10px">
     <img src=https://cdn-icons-png.flaticon.com/512/919/919826.png height='55'>
+
+***
+
+</div>
+    <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png height='80' v>
+    <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png height='80' style="margin-right: 10px">
+    <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png height='80' style="margin-right: 10px">
+    <img src=https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg height='80' style="margin-right: 10px">
+    <img src=https://static.wikia.nocookie.net/roblox/images/a/a0/Roblox_Studio_Icon_6.svg/revision/latest?cb=20230511025706 height='80' style="margin-right: 10px">
+<div>
+
 </div>
 
 ***
