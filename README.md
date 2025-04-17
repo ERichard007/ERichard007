@@ -1,5 +1,6 @@
 ## Hello! My name is Evan Richard 👋
 *** 
+<!-- LANGUAGES -->
 <div>
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png height='55' style="margin-right: 10px">
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png height='55' style="margin-right: 10px">
@@ -11,7 +12,7 @@
 </div>
     
 ***
-
+<!-- TOOLS -->
 <div>
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png height='50' v>
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png height='50' style="margin-right: 10px">
@@ -23,9 +24,9 @@
 </div> 
 
 ***
-
+<!-- BADGES/STATS -->
 <div>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/EvanRichard.png" width='200'/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/EvanRichard.png">
 </div>
 
 ***
