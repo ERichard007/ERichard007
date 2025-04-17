@@ -1,5 +1,8 @@
 name: TryHackMe Badge Updater
 
+permissions:
+    contents: write
+
 on:
   schedule:
     - cron: "0 */3 * * *"
