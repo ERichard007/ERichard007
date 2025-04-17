@@ -1,0 +1,32 @@
+name: TryHackMe Badge Updater
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checout@v3
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Update cacheBust for TryHackMe
+        run: |
+          BUST=$(date +%s)
+          sed -i "s|\(EvanRichard.png?cacheBust=\)[0-9]*|\1$BUST|" README.md
+
+      - name: Commit
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -am "Update TryHackMe badge thing to $BUST"
+          git push
