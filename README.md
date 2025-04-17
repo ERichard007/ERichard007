@@ -26,7 +26,7 @@
 ***
 <!-- BADGES/STATS -->
 <div>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/EvanRichard.png">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/EvanRichard.png" width='200'>
 </div>
 
 ***
