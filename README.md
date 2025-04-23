@@ -27,6 +27,7 @@
 <!-- BADGES/STATS -->
 <div>
     <img src="https://tryhackme-badges.s3.amazonaws.com/EvanRichard.png?cacheBust=1744919442" width='200'>
+    <img src="https://assets.tryhackme.com/room-badges/ef5f092ff5d589b5db2b4b33ea8c622b.png" width='200'>
 </div>
 
 ***
