@@ -31,6 +31,7 @@
     <img src="https://assets.tryhackme.com/room-badges/ef5f092ff5d589b5db2b4b33ea8c622b.png" width='100'>
     <img src="https://assets.tryhackme.com/room-badges/b79b8f2467229d46c71b4c5746aad4b6.png" width='100'>
     <img src="https://assets.tryhackme.com/room-badges/282aaefd4a95262a5ac5d028fe2f8dce.png" width='100'>
+    <img src="https://assets.tryhackme.com/room-badges/387ce97f2ca13cdc0178e6822057a415.png" width="100">
 </div>
 
 ***
