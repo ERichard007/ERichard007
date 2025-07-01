@@ -34,6 +34,13 @@
 </div>
 
 ***
+<!-- CERTIFICATIONS -->
+<div>
+    <img src="./Assets/TryhackmePreSecurityCert.png" width='200'>
+    <img src="./Assets/NVIDIADeepLearningCert.PNG" width='200'>
+<div>
+
+***
 
 ### About **Me** 🙋‍♂️
 
