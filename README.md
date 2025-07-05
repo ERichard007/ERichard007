@@ -17,8 +17,8 @@
 <div>
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png height='50' width='50' v>
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png height='50' width='50' style="margin-right: 10px">
-    <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png height='100' width='50' style="margin-right: 10px">
-    <img src=https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg height='100' width='50' style="margin-right: 10px">
+    <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png height='300' width='50' style="margin-right: 10px">
+    <img src=https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg height='300' width='50' style="margin-right: 10px">
     <img src=https://static.wikia.nocookie.net/roblox/images/a/a0/Roblox_Studio_Icon_6.svg/revision/latest?cb=20230511025706 height='50' width='50' style="margin-right: 10px">
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png height='50' width='50' style="margin-right: 10px">
     <img src=https://pbs.twimg.com/profile_images/1630964842197573632/X5VCQoYL_400x400.jpg height='50' width='50' >
