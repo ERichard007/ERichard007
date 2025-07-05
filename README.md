@@ -57,19 +57,19 @@ I'm currently working on developing a game in **C#**, developing a website for a
 <div align='center'>
     <!-- Chess Game -->
     <a href="https://github.com/ERichard007/CSharpChess.git">
-        <img src="https://img.itch.zone/aW1nLzE5MzI1ODY2LmdpZg==/original/OjtpdW.gif" height='100'/>
+        <img src="https://img.itch.zone/aW1nLzE5MzI1ODY2LmdpZg==/original/OjtpdW.gif" height='100' width='100'/>
     </a>
     <!-- Personal Website -->
     <a href="https://github.com/ERichard007/PersonalWebsiteACMCompetition.git">
-        <img src="https://media4.giphy.com/media/5aUw8GEmLUAULgGdE9/giphy.gif?cid=6c09b952z17xmurpvsmjeb576o6samhtl3bcyeqygbzzjr39&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" height='100'/>
+        <img src="https://media4.giphy.com/media/5aUw8GEmLUAULgGdE9/giphy.gif?cid=6c09b952z17xmurpvsmjeb576o6samhtl3bcyeqygbzzjr39&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" height='100' width='100'/>
     </a>
     <!-- Operating Systems -->
     <a href="https://github.com/ERichard007/CS-3800">
-        <img src="https://media0.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=6c09b952d5bfjebi3wdqncp1mrumzwtv9z9udmj3ehcl4e6t&ep=v1_gifs_search&rid=giphy.gif&ct=g" height='100'/>
+        <img src="https://media0.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=6c09b952d5bfjebi3wdqncp1mrumzwtv9z9udmj3ehcl4e6t&ep=v1_gifs_search&rid=giphy.gif&ct=g" height='100' width='100'/>
     </a>
     <!-- Algorithms -->
     <a href="https://github.com/ERichard007/CS-2500">
-        <img src="https://media.tenor.com/YnP4e9aFUocAAAAM/sort-chart.gif" height='100'/>
+        <img src="https://media.tenor.com/YnP4e9aFUocAAAAM/sort-chart.gif" height='100' width='100'/>
     </a>
 </div>
 
