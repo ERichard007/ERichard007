@@ -1,4 +1,4 @@
-name: TryHackMe Badge Updater
+name: TryHackMe/CyberDefender Badge Updater
 
 permissions:
     contents: write
@@ -24,6 +24,7 @@ jobs:
         run: |
           BUST=$(date +%s)
           sed -i "s|\(EvanRichard.png?cacheBust=\)[0-9]*|\1$BUST|" README.md
+          sed -i "s|\(Evan_Richard.png?cacheBust=\)[0-9]*|\1$BUST|" README.md
 
       - name: Commit
         run: |
