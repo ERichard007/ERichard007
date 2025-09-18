@@ -24,7 +24,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" height='50' width='50' style="margin-right: 10px">
     <img src="https://pbs.twimg.com/profile_images/1630964842197573632/X5VCQoYL_400x400.jpg" height='50' width='50' >
     <img src="https://miro.medium.com/v2/resize:fit:1200/0*zFEilgbfPjq9rr9L.png" width='100'>
-    <>
 </div> 
 
 ***
