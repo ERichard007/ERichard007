@@ -24,6 +24,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" height='50' width='50' style="margin-right: 10px">
     <img src="https://pbs.twimg.com/profile_images/1630964842197573632/X5VCQoYL_400x400.jpg" height='50' width='50' >
     <img src="https://miro.medium.com/v2/resize:fit:1200/0*zFEilgbfPjq9rr9L.png" width='100'>
+    <>
 </div> 
 
 ***
@@ -35,6 +36,7 @@
     <img src="https://assets.tryhackme.com/room-badges/b79b8f2467229d46c71b4c5746aad4b6.png" width='100' height='50'>
     <img src="https://assets.tryhackme.com/room-badges/282aaefd4a95262a5ac5d028fe2f8dce.png" width='100' height='50'>
     <img src="https://assets.tryhackme.com/room-badges/387ce97f2ca13cdc0178e6822057a415.png" width="100" height='50'>
+    <img src="https://assets.tryhackme.com/room-badges/c4a5eb431c7c5768793768b6bf822f3e.png" width="100" height='50'>
 </div>
 
 ***
