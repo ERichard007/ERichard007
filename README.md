@@ -30,8 +30,8 @@
 ***
 <!-- BADGES/STATS -->
 <div>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/EvanRichard.png?cacheBust=1758156826" width='200' height='50'>
-    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Evan_Richard.png?cacheBust=1758156826" width="200" height='50'/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/EvanRichard.png?cacheBust=1758588867" width='200' height='50'>
+    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Evan_Richard.png?cacheBust=1758588867" width="200" height='50'/>
     <img src="https://assets.tryhackme.com/room-badges/ef5f092ff5d589b5db2b4b33ea8c622b.png" width='100' height='50'>
     <img src="https://assets.tryhackme.com/room-badges/b79b8f2467229d46c71b4c5746aad4b6.png" width='100' height='50'>
     <img src="https://assets.tryhackme.com/room-badges/282aaefd4a95262a5ac5d028fe2f8dce.png" width='100' height='50'>
@@ -57,7 +57,7 @@ I'm a computer science undergraduate at Missouri Science and Technology in Rolla
 ***
 ### Current Projects
 
-On top of my studies, I'm currently working on several different things but my main project right now is a website built with **HTML**, **JAVASCRIPT**, and **CSS** to improve my web development skills. With this I am also working on Cybersecurity by performing labs on an online learning website called **CyberDefenders** to get real experience using **OSINT**, various security libraries like **Volatility3** , and real world security software like **Wireshark**. All of this to say I'm also practicing my **Python** and algorithm skills with **Neetcode** and by working with the **Multirotor Design Team** on **Inter-Drone Communication**. Finally, I'm continuing to learn more of the fundementals of security with **Tryhackme's SOC Track** and studying to complete my **CompTIA Sec+ Certification**. 
+On top of my studies, I'm currently working on several different things but my main project right now is a website built with **HTML**, **JAVASCRIPT**, and **CSS** to improve my web development skills. With this I am also working on Cybersecurity by performing labs on an online learning website called **CyberDefenders** to get real experience using **OSINT**, various security libraries like **Volatility3** , and real world security software like **Wireshark**. All of this to say I'm also practicing my **Python** and algorithm skills with **Neetcode** and by working with the **Multirotor Design Team** on **Inter-Drone Communication**. Finally, I'm continuing to learn more of the fundementals of security with **Tryhackme's SOC Track** and studying to complete my **CompTIA A+ Certification**. 
 
 _(Images below link to above from left -> right: Website, Cyberdefenders, Neetcode, Tryhackme)_
 
