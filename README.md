@@ -24,20 +24,25 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" height='50' width='50' style="margin-right: 10px">
     <img src="https://pbs.twimg.com/profile_images/1630964842197573632/X5VCQoYL_400x400.jpg" height='50' width='50' >
     <img src="https://miro.medium.com/v2/resize:fit:1200/0*zFEilgbfPjq9rr9L.png" width='100' >
+    <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height='50' width='50'>
 </div> 
 
 ***
 <!-- BADGES/STATS -->
 <div>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/EvanRichard.png?cacheBust=1758243350" width='200' height='50'>
-    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Evan_Richard.png?cacheBust=1758243350" width="200" height='50'/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/EvanRichard.png?cacheBust=1759971330" width='200' height='50'>
+    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Evan_Richard.png?cacheBust=1759971330" width="200" height='50'/>
     <img src="https://assets.tryhackme.com/room-badges/ef5f092ff5d589b5db2b4b33ea8c622b.png" width='100' height='50'>
     <img src="https://assets.tryhackme.com/room-badges/b79b8f2467229d46c71b4c5746aad4b6.png" width='100' height='50'>
     <img src="https://assets.tryhackme.com/room-badges/282aaefd4a95262a5ac5d028fe2f8dce.png" width='100' height='50'>
     <img src="https://assets.tryhackme.com/room-badges/387ce97f2ca13cdc0178e6822057a415.png" width="100" height='50'>
     <img src="https://assets.tryhackme.com/room-badges/c4a5eb431c7c5768793768b6bf822f3e.png" width="100" height='50'>
     <img src="https://assets.tryhackme.com/room-badges/8d9d37a565764ea5794f9e2a383bc2d1.png" width="100" height="50">
+<<<<<<< HEAD
     <img src=https://assets.tryhackme.com/room-badges/b677c61fb263790402e384683facdd0b.png width='100' height='50'>
+=======
+    <img src="https://assets.tryhackme.com/room-badges/db0c4b74e3905f92a79904749c16645e.png" width='100' height='50'>
+>>>>>>> 9c9f4ed13857a5b875233317dd9c03895bc177d6
 </div>
 
 ***
